@@ -1,3 +1,7 @@
 newfile
 
-x - []
+x = []
+
+y = 10
+
+z = "apple"
